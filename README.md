@@ -43,7 +43,7 @@ It features a unique **Hybrid AMP** engine, built-in **PWA (Progressive Web App)
 
 ---
 
-## 🔮 Roadmap: Coming in v3.7.0
+## 🔮 Updated v3.7.0
 The next major update focuses on stability, advanced monetization, and UX improvements:
 
 - [ ] **Advanced SEO:** Separate title tags implemented for the home page.
