@@ -369,7 +369,7 @@
 [!] If Blank: Tracking Code is added from Blogger Blog Settings
 [!] Example: G-0000000H00
 
-<Variable name="adsense.clientId" description="Adsense Client Id" type="string" default="" value="3369816220284098"/>
+<Variable name="adsense.clientId" description="Adsense Client Id" type="string" default="" value=""/>
 [!] Adsense Client Id
 [!] @type {String}
 [!] If Blank: It will be automated if Blog is connected with Adsense Account
